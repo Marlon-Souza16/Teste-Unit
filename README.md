@@ -1,3 +1,5 @@
-# Gustavo Dias
-# Lucas Willian Serpa
-# Marlon de Souza
+# Alunos:
+
+## - Gustavo Dias
+## - Lucas Willian Serpa
+## - Marlon de Souza
